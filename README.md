@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **go**
 
-- 💬 Ask me about **devops & security**
+- 💬 Ask me about **Python & security**
 
 - 📫 How to reach me? **github@hibare.in**
 
