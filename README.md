@@ -112,7 +112,7 @@ Official Go client for Headscale API — listed in project documentation
 </td>
 <td width="50%">
 
-### [GoGeoIP](https://github.com/hibare/GoGeoIP)
+### [Waypoint](https://github.com/hibare/Waypoint)
 GeoIP REST API with MaxMind and IPInfo integration
 
 </td>
