@@ -2,7 +2,7 @@
 
 # Shubham Hibare
 
-**Security Engineer** • Software Supply Chain Security
+**Senior Security Software Engineer**
 
 📍 Bengaluru, India • ✉️ [github@hibare.in](mailto:github@hibare.in)
 
